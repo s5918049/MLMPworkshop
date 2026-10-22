@@ -32,7 +32,7 @@ from tools import search_papers as openalex_search_papers
 
 
 # ===== STUDENT SETTINGS: change these, not the tool execution code. =====
-TOPIC = "AI Agent for 3D Animation Workflow"
+TOPIC = "Neural Rendering for 3D Animation"
 TARGET_PAPERS = 10
 MAX_SEARCH_ROUNDS = 3
 PAPERS_PER_SEARCH = 5  # Each OpenAlex request returns at most 5 records.

@@ -1,10 +1,10 @@
 {
-  "topic": "AI Agent for 3D Animation Workflow",
+  "topic": "Neural Rendering for 3D Animation",
   "search_queries": [
-    "artificial intelligence agents in 3d animation pipelines",
-    "autonomous agents for computer graphics and character animation",
-    "machine learning workflow automation for 3d asset creation"
+    "neural rendering techniques for real-time 3D character animation",
+    "implicit neural representations and radiance fields in computer animation",
+    "generative neural rendering pipelines for 3D asset creation and animation"
   ],
   "start_year": 2022,
-  "research_focus": "Investigate how autonomous AI agents and machine learning models are integrated into professional 3D animation workflows to automate rigging, keyframing, asset generation, and pipeline optimization."
+  "research_focus": "Investigating recent advancements in implicit neural representations, radiance fields, and generative models applied to 3D character rigging, motion synthesis, and real-time animation pipelines, identifying current limitations in generalization, control, and computational efficiency."
 }

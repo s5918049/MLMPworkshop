@@ -13,7 +13,7 @@ from google import genai  # Imports the Google Gemini Python library.
 
 
 # Change this topic to something relevant to your own survey.
-TOPIC = "AI Agent for 3D Animation Workflow"
+TOPIC = "Neural Rendering for 3D Animation"
 
 # The model name identifies which Gemini model should answer our request.
 MODEL = "gemini-3.5-flash-lite"

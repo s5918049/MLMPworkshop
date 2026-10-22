@@ -23,7 +23,7 @@ from tools import search_papers as openalex_search_papers
 
 
 # CHANGE THESE TWO VALUES for the exercise.
-TOPIC = "AI Agent for 3D Animation Workflow"
+TOPIC = "Neural Rendering for 3D Animation"
 PAPER_COUNT = 5
 
 # Use the same model as the previous section.

@@ -18,7 +18,7 @@ from pydantic import BaseModel, Field  # Define and describe a data schema.
 
 
 # EDIT THIS: use your own survey topic.
-TOPIC = "AI Agent for 3D Animation Workflow"
+TOPIC = "Neural Rendering for 3D Animation"
 MODEL = "gemini-3.5-flash-lite"
 
 

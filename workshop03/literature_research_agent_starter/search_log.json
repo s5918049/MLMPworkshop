@@ -1,5 +1,5 @@
 {
-  "topic": "AI Agent for 3D Animation Workflow",
+  "topic": "Neural Rendering for 3D Animation",
   "start_year": 2022,
   "target_papers": 10,
   "max_search_rounds": 3,
@@ -11,9 +11,9 @@
   "searches": [
     {
       "round": 1,
-      "planned_query": "artificial intelligence agents in 3d animation pipelines",
+      "planned_query": "neural rendering techniques for real-time 3D character animation",
       "tool_queries": [
-        "artificial intelligence agents in 3d animation pipelines"
+        "neural rendering techniques for real-time 3D character animation"
       ],
       "retrieved": 5,
       "new_unique_valid_records": 5,
@@ -21,9 +21,9 @@
     },
     {
       "round": 2,
-      "planned_query": "autonomous agents for character animation and rigging",
+      "planned_query": "implicit neural representations and radiance fields for articulated 3D character animation",
       "tool_queries": [
-        "autonomous agents for character animation and rigging"
+        "implicit neural representations and radiance fields for articulated 3D character animation"
       ],
       "retrieved": 5,
       "new_unique_valid_records": 5,
